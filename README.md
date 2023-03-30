@@ -8,7 +8,8 @@ The folder laser_calibration contains the file necessary to calibrate the laser 
 
 Further details are exposed inside the specific folders.
 
-Important:
+## Important:
+
 The host PC IP address is 196.168.7.1
 The Performance real-time target machine IP address is 192.168.7.2
 The Baseline Education target machine IP address is 192.168.7.3
