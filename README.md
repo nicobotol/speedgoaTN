@@ -13,3 +13,6 @@ Further details are exposed inside the specific folders.
 The host PC IP address is 196.168.7.1
 The Performance real-time target machine IP address is 192.168.7.2
 The Baseline Education target machine IP address is 192.168.7.3
+
+# DOI identifier
+[![DOI](https://zenodo.org/badge/621367986.svg)](https://doi.org/10.5281/zenodo.17049910)
